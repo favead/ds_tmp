@@ -1,0 +1,9 @@
+[core]
+  remote = remote
+  autostage = false
+
+['remote "remote"']
+  url = 
+  endpointurl = 
+  access_key_id = 
+  secret_access_key = 
